@@ -1,0 +1,2 @@
+# SubstanceImportPluginConverter
+This project allows you to upgrade Allegorithmic Substances built on Unity 2017.4 and earlier, to Unity 2018.1 and later using a combination of the official Substances for Unity plugin, and a lot of .meta file hackery. This removes the need for upgrading to Unity 2017.3/2017.4 then upgrading your project to 2018.2 and allows you to jump from 2017.2 and earlier versions directly by running a simple tool.
