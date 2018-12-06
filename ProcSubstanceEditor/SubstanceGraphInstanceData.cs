@@ -68,6 +68,9 @@ namespace ProcSubstanceEditor
         public SubstanceTexturePackingList[] texturePackingList { get; set; }
         public SubstanceTextureParameter[] textureParameters { get; set; }
         public SubstanceColorSpace[] colorSpaceList { get; set; }
+
+        public string[] inputTextureMap { get; set; } = new string[0];
+
         // inputTextureMap
         public SubstanceTargetSetting[] targetSettingList { get; set; }
         public AssetReferenceData material { get; set; }
